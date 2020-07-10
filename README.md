@@ -1,6 +1,17 @@
+![孟德尔](https://cdn.luogu.com.cn/upload/pic/16856.png
+)
+```plain
+  ___  ____   _____  _  _____  _____
+ / _ \|___ \ |___ / / ||___  ||___ /
+| (_) | __) |  |_ \ | |   / /   |_ \
+ \__, |/ __/  ___) || |  / /   ___) |
+   /_/|_____||____/ |_| /_/   |____/
+```
+
+[图生成](https://csacademy.com/app/graph_editor/)
+
 ### Hi there 👋
 
-<!--
 **YooLc/YooLc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
